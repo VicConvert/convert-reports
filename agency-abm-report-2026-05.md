@@ -1,3 +1,5 @@
+
+
 # Agency & Regional Performance — May 2026
 
 **Reporting window:** 2026-05-01 – 2026-05-31  
@@ -124,8 +126,8 @@
 ### Hype Digital
 
 **Campaign:** Hype Digital  
-**Start date:** 2025-11-01  
-**Campaign age:** 7 months  
+**Start date:** 2026-05-01  
+**Campaign age:** 1 month  
 **List size:** 184 — Δ —
 
 **Stage snapshot (current)**
@@ -146,7 +148,7 @@
 | Lead → MQL | 0 | 0 |
 | MQL → SQL | 0 | 0 |
 
-**Cumulative since 2025-11-01**
+**Cumulative since 2026-05-01**
 
 | Milestone | Count |
 |---|---|
@@ -164,3 +166,23 @@ Filter: `abm_campaign = Hype Digital` + `country = South Africa` + `source = Par
 | May 2026 | 0 |
 | Apr 2026 | 0 |
 | Δ | 0 |
+
+---
+
+## Panel 4 — Agency Referral Performance
+
+> Source: Company object properties on each agency record, populated via company-to-company associations (labels: Referral source / Referral).
+
+### Optiphoenix (HubSpot ID: 8509161898)
+
+| Metric | Jan 2026 | Feb 2026 | Mar 2026 | Apr 2026 | May 2026 | Δ Apr→May |
+|---|---|---|---|---|---|---|
+| New referrals | — | — | — | — | — | — |
+| Revenue from referrals | — | — | — | — | — | — |
+
+### Hype Digital (HubSpot ID: 10922089117)
+
+| Metric | Jan 2026 | Feb 2026 | Mar 2026 | Apr 2026 | May 2026 | Δ Apr→May |
+|---|---|---|---|---|---|---|
+| New referrals | — | — | — | — | — | — |
+| Revenue from referrals | — | — | — | — | — | — |
